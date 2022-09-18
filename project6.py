@@ -10,3 +10,4 @@ if __name__=='__main__':
     except:
         print('No argumet provided in the execution,\nExample:python project6.py "argument"')
     # print("\033[91mThis is red!\033[0m")
+#     new line
